@@ -46,8 +46,8 @@ class ApiConfig {
 - The frontend should now be able to communicate with the backend.
 
 ### 3. Database Setup
--Install and set up PostgreSQL on your machine.
--Create a database called banca_movil in PostgreSQL.
+- Install and set up PostgreSQL on your machine.
+- Create a database called banca_movil in PostgreSQL.
 
 ```sql
 CREATE DATABASE banca_movil;
